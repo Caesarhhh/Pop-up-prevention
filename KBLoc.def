@@ -1,0 +1,34 @@
+; KBLoc.def : Declares the module parameters for the DLL.
+
+LIBRARY      "KBLoc"
+
+DESCRIPTION 'KBLoc Windows Dynamic Link Library'
+
+EXPORTS
+
+    ; Explicit exports can go here
+
+
+SetWinCreateHook @1
+
+EndWinCreateHook @2
+
+getinput @3
+
+setinput @4
+
+SetWebCreateHook @5
+
+EndWebCreateHook @6
+
+getlastban @7
+
+setlastban @8
+
+get_Count @9
+
+set_Count @10
+
+initEnum @11
+
+getroot @12
