@@ -1,2 +1,0 @@
-C:\Users\yujkl\source\repos\KBLoc\Debug\KBLoc.dll
-C:\Users\yujkl\source\repos\KBLoc\Debug\KBLoc.pdb
