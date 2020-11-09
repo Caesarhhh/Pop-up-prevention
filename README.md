@@ -32,7 +32,7 @@
 
 ##### 4.需要修改banlist以及webnames的可以直接修改程序所在文件夹下的文件
 
-##### 5.可以在explorelist.txt中添加需要监测的浏览器的类名
+##### 5.可以在explorelist.txt中添加需要监测的浏览器的类名，目前只有firefox和ie
 
 
 
